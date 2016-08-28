@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://dla.xyzsq.com/pack/063/841140063/818356600/1470776432-841140063.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://img.51pgzs.com/app/063/_com.blizzard.wtcg.cn.hearthstone.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://img.51pgzs.com/app/063/_com.blizzard.wtcg.cn.hearthstone.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.lhnie.huawuque</string>
+				<key>bundle-version</key>
+				<string>1.0.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>huawuque</string>
+				<key>title</key>
+				<string>huawuque</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
